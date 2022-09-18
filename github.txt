@@ -1,0 +1,12 @@
+Player experience:
+
+fast reaction/clever
+
+core mechanic:
+
+biegnie / skacze , strzela , zbiera , celuje , zmienia bronie
+
+game loop:
+
+wygrywa poprzez dotarcie do konkretnego punktu i pokonanie przeciwnikow.
+próbujemy pokonać wszystkich przeciwników i przeżyć.
